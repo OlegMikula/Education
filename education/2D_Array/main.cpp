@@ -18,7 +18,7 @@ int** createArray (int column, int row)
     }
     return array;
 }
-
+//123-43-1234 fwefwfw
 void deleteArray(int** array, int row) {
     for (int i = 0; i < row; ++i) {
         delete[] array[i];
