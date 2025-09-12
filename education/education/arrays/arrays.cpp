@@ -17,7 +17,7 @@ void findMin(int array[], int x){
     
     std::cout << "Minimal Number" << min << std::endl;
 }
-
+// 123-43-1234 egregege
 void findMax(int array[], int x){
     int max = array[0];
     for(int i = 1; i < x; ++i){
